@@ -9,11 +9,11 @@
 <p align="center">Projeto desenvolvido durante a semana Omnistack 11 da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀</p>
 
 <p align="center">
- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EdgarJFA/Ecoleta">
+ <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EdgarJFA/Be-The-Hero">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EdgarJFA/Ecoleta">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/EdgarJFA/Be-The-Hero">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EdgarJFA/Ecoleta">  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EdgarJFA/Be-The-Hero">  
 </p>
 
 <p align="center">
@@ -30,13 +30,17 @@
 
 <p align="center">
   <a href="https://github.com/pedroleinar/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EdgarJFA/Ecoleta">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EdgarJFA/Be-The-Hero">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
 <p align="center">Seja um Herói</p>
-<img src=".github/BeTheHeroCapa.png" alt="be the hero" align="center" ></img> 
+
+<p align="center">
+  <img src=".github/BeTheHeroCapa.png" alt="be the hero"  width=75% ></img> 
+</p>
+
 
 <p align="center">Guia de Navegação</p>
 
